@@ -1,0 +1,1 @@
+/home/oshulzhenko/AndroidStudioProjects/MyApplication/app/src/main/aidl/com/example/myapplication/IMyAidlInterface.aidl
